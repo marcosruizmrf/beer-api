@@ -6,10 +6,10 @@ Foi desenvolvido uma API REST para o gerenciamento de estoques de cerveja e test
 
 ### Sistemas e ferramentas utilizadas no projeto:
 
-Java 14 ou versões superiores.
-Maven 3.6.3 ou versões superiores.
-Intellj IDEA Community Edition ou sua IDE favorita.
-Controle de versão GIT instalado na sua máquina.
-Muita vontade de aprender e compartilhar conhecimento :)
-Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
+Java 11;
+Maven 3.8.1;
+Intellj IDEA Community Edition;
+GIT e GITHUB; e
+Postman.
+
 
